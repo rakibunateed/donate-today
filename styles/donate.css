@@ -17,6 +17,7 @@ font-family: 'Open Sans', sans-serif;
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    margin-bottom: 130px;
     
 }
 
@@ -47,4 +48,80 @@ font-weight: 600;
 font-size: 18px;
 font-weight: 600;
 margin-left: 40px;
+}
+
+.donate{
+    margin: 0 350px 130px;
+    text-align: center;
+    align-items: center;
+}
+.donate-title{
+    color: #121212;
+font-size: 45px;
+font-weight: 700;
+}
+.donate-description{
+    color: #707070;
+font-size: 18px;
+font-weight: 400;
+margin-top: 20px;
+}
+.donate-content{
+    margin: 80px 0 80px;
+}
+.content-1{
+    border-radius: 5px;
+background:#FAFAFA;
+color: #707070;
+font-size: 30px;
+font-weight: 700;
+padding: 35px  25px;
+margin-right: 20px;
+}
+.content-2{
+    border-radius: 5px;
+border: 2px solid #FF5959;
+background: #FEE;
+color: #FF5959;
+font-size: 30px;
+font-weight: 700;
+padding: 35px 25px;
+margin-right: 20px;
+}
+.content-3{
+    border-radius: 5px;
+background: #FAFAFA;
+color: #707070;
+font-size: 30px;
+font-weight: 700;
+padding: 35px 25px;
+margin-right: 20px;
+}
+.content-4{
+    border-radius: 5px;
+    background: #FAFAFA;
+    color: #707070;
+font-size: 30px;
+font-weight: 700;
+padding: 35px 25px;
+margin-right: 20px;
+}
+.content-5{
+    border-radius: 5px;
+    background: #FAFAFA;
+    color: #707070;
+font-size: 30px;
+font-weight: 700;
+padding: 35px 25px;
+
+}
+.donate-info{
+    color: #B3B3B3;
+font-size: 18px;
+font-weight: 400;
+}
+ #line{
+    margin: 10px 170px 30px;
+    color: #B3B3B3;
+
 }
