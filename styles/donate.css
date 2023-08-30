@@ -144,7 +144,7 @@ font-weight: 400;
 }
 .exhibition{
  
-    margin: 0 350px 130px;
+    margin: 0 300px 130px;
     display: flex;
     justify-content: space-between;
     
@@ -154,7 +154,7 @@ font-weight: 400;
 background: rgba(79, 157, 166, 0.10);
 
 padding: 64px 23px 54px 23px;
-width: 300px;
+width: 350px;
 height: 250px;
 
 
@@ -164,7 +164,7 @@ height: 250px;
 background: rgba(255, 89, 89, 0.10);
 
 padding: 64px 23px 54px 23px;
-width: 300px;
+width: 350px;
 height: 250px;
 
 }
@@ -172,7 +172,7 @@ height: 250px;
     border-radius: 5px;
 background: #FFF4D6;
 padding: 64px 23px 54px 23px;
-width: 300px;
+width: 350px;
 height: 250px;
 
 }
@@ -187,4 +187,41 @@ padding: 34px 0 20px ;
 font-size: 16px;
 font-weight: 400;
 
+}
+
+.homeless{
+    margin: 0 450px 100px 300px;
+    display: flex;
+    align-items: center;
+   
+    justify-content: space-between;
+}.homeless-content{
+    
+}
+.homeless-title{
+    color: #121212;
+font-size: 45px;
+font-weight: 700;
+}
+.homeless-description-1{
+    color: #707070;
+font-size: 18px;
+font-weight: 400;
+margin: 20px 0 ;
+}
+.homeless-description-2{
+    color: #707070;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 30px;
+}
+.btn-primary-1{
+    border-radius: 5px;
+    border: none;
+background: #FF5959;
+color: #FFF;
+text-align: center;
+font-size: 20px;
+font-weight: 600;
+padding: 16px 12px;
 }
