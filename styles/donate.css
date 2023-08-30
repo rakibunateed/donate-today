@@ -24,7 +24,7 @@ font-family: 'Open Sans', sans-serif;
 .banner-title{
     color: #121212;
     font-size: 65px;
-    font-weight: 700;
+    font-weight: 800;
 }
 .banner-description{
     color: #707070;
@@ -58,7 +58,7 @@ margin-left: 40px;
 .donate-title{
     color: #121212;
 font-size: 45px;
-font-weight: 700;
+font-weight: 800;
 }
 .donate-description{
     color: #707070;
@@ -123,5 +123,68 @@ font-weight: 400;
  #line{
     margin: 10px 170px 30px;
     color: #B3B3B3;
+
+}
+.plan{
+    text-align: center;
+    margin:0 375px 50px ;
+}
+
+.plan-title{
+    color: #121212;
+font-size: 45px;
+font-weight: 800;
+margin-bottom: 25px;
+}
+.plan-description{
+    color: #707070;
+font-size: 18px;
+font-weight: 400;
+
+}
+.exhibition{
+ 
+    margin: 0 350px 130px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.exhibition-1{
+    border-radius: 5px;
+background: rgba(79, 157, 166, 0.10);
+
+padding: 64px 23px 54px 23px;
+width: 300px;
+height: 250px;
+
+
+}
+.exhibition-2{
+    border-radius: 5px;
+background: rgba(255, 89, 89, 0.10);
+
+padding: 64px 23px 54px 23px;
+width: 300px;
+height: 250px;
+
+}
+.exhibition-3{
+    border-radius: 5px;
+background: #FFF4D6;
+padding: 64px 23px 54px 23px;
+width: 300px;
+height: 250px;
+
+}
+.exhibition-title{
+    color: #121212;
+font-size: 24px;
+font-weight: 600;
+padding: 34px 0 20px ;
+}
+.exhibition-description{
+    color: #707070;
+font-size: 16px;
+font-weight: 400;
 
 }
