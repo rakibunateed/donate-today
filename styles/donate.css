@@ -195,8 +195,6 @@ font-weight: 400;
     align-items: center;
    
     justify-content: space-between;
-}.homeless-content{
-    
 }
 .homeless-title{
     color: #121212;
@@ -224,4 +222,28 @@ text-align: center;
 font-size: 20px;
 font-weight: 600;
 padding: 16px 12px;
+}
+
+.life{
+    margin: 0 450px 130px 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.life-title{
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+.life-description-1{
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 20px 0 ;
+}
+.life-description-2{
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
 }
