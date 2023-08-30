@@ -296,13 +296,22 @@ padding: 14px 43px;
 }
 
 .humble{
-    background:#0B0D17;
-padding: 43px 629px 42px 653px;
-align-items: center;
-justify-content: center;
+    background:  #0B0D17;
+     
+    padding: 43px 629px 42px 653px;
+     justify-content: center; 
+    align-items: center;
+    text-align: center;
 }
 .humble-title{
     color: #FF5959;
-font-size: 36px;
-font-weight: 400;
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.humble-info{
+    color: #D9DBE1;
+    font-size: 14px;
+    font-weight: 400;
+
 }
