@@ -308,6 +308,8 @@ padding: 14px 43px;
     font-size: 36px;
     font-weight: 800;
     margin-bottom: 24px;
+    font-feature-settings: 'clig' off, 'liga' off;
+font-family: Lobster;
 }
 .humble-info{
     color: #D9DBE1;
